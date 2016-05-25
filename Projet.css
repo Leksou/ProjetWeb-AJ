@@ -7,15 +7,40 @@ header
 {
 	background-color:rgba(0,0,0,0.75);
 	margin:0%;
-	background-image:url(Images/Logo.png);
+}
+header img
+{
+	margin-left:3%;
+	width:12%;
+	height:12%;
+	float:left;
 }
 header h1
 {
-	margin-top:0px;;
+	padding-top:2%;
+	margin-top:0px;
+	color:white;
+}
+header p
+{
+	padding-bottom:3%;
+	color:white;
+}
+section
+{
+	display:inline-block;
 }
 .droite
 {
-	
+	background-color:#CB99C9;
+	opacity:0.75;
+	margin-right:88%;
+	margin-left:0%
+}
+.centrale
+{
+	margin-left:14%;
+	margin-right:86%;
 }
 .gauche
 {
